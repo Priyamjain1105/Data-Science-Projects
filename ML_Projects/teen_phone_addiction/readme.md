@@ -1,5 +1,5 @@
 # Teenagers Phone Addiction
-[Exploratory Data Analysis](teen_phone_addiction/EDA.ipynb)
+[Exploratory Data Analysis](EDA.ipynb)
 
 ### Hypothesis Testing and Models
--  [Students Grade Prediction Based on their different Screen Times](teen_phone_addiction/H1.ipynb) 
+-  [Students Grade Prediction Based on their different Screen Times](H1.ipynb) 
