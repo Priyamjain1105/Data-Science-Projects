@@ -1,5 +1,8 @@
 # Teenagers Phone Addiction
-[Exploratory Data Analysis](EDA.ipynb)
+<img width="1920" height="1259" alt="image" src="https://github.com/user-attachments/assets/fac472ca-5dfe-435a-a545-357994e12f33" />
+
+## [Exploratory Data Analysis](EDA.ipynb)
+   - Performed several analysis on data to identify features to perform ML.
 
 ## Hypothesis Testing and Models
 - #### [Students Grade Prediction Based on their different Screen Times](H1.ipynb) 
